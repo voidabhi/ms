@@ -7,6 +7,12 @@ Millisecond conversion utility for golang
 $ go get github.com/voidabhi/ms
 ```
 
+### Run Tests
+
+```
+$ go test ./...
+```
+
 ### Usage
 
 ```go
