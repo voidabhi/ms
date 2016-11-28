@@ -13,6 +13,12 @@ $ go get github.com/voidabhi/ms
 $ go test ./...
 ```
 
+### Building
+
+```
+$ make build
+```
+
 ### Usage
 
 ```go
