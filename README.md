@@ -3,19 +3,19 @@ Millisecond conversion utility for golang
 
 ### Installation
 
-```
+```sh
 $ go get github.com/voidabhi/ms
 ```
 
 ### Run Tests
 
-```
+```sh
 $ go test ./...
 ```
 
 ### Building
 
-```
+```sh
 $ make build
 ```
 
